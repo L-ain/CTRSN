@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+raw/
+results/
+*.npy
+*.npz
+*.h5
+*.keras
+*.log
+.env
+.env.*
+.DS_Store
